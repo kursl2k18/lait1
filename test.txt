@@ -1,1 +1,2 @@
 to jest nowy plik
+to jest zmiana w moim pliku
